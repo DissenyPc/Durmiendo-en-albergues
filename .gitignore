@@ -1,0 +1,13 @@
+# Compiled class files
+*.class
+
+# Build and output directories
+bin/
+
+# Dependency directories
+# (lib/ is kept for dependencies but if they are jars, sometimes we don't commit them, 
+# but let's keep lib/ tracked or just ignore its contents if user prefers; we will keep it simple)
+
+# VS Code files
+.vscode/*
+!.vscode/settings.json
